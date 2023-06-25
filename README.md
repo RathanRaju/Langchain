@@ -2,7 +2,7 @@
 
 Langchain AI Model for Indian Budget Speech
 
-![Langchain Logo](langchain.png)
+![Langchain Logo](langchain.png) 
 
 ## Description
 
