@@ -2,7 +2,7 @@
 
 Langchain AI Model for 'Budget_Speech.PDF'
 
-![Langchain Logo](images/langchain-logo.png)
+![Langchain Logo](langchain.png)
 
 ## Description
 
